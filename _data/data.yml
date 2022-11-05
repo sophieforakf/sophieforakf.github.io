@@ -93,31 +93,24 @@ career-profile:
       und Eigeninitiative ist. Um gemeinsam mit der AKF Fahrzeugteile GmbH an Projekten, deren Größe und Komplexität 
       zu wachsen bewerbe ich mich hiermit als Projektmanagerin.
 
-#education:
-#    title: Bildung
-#    info:
-#      - degree: MSc in Computer Science
-#        university: University of London
-#        time: 2011 - 2012
-#        details: |
-#          Describe your study here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#          sociis natoque penatibus et magnis dis parturient montes, nascetur
-#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#          pretium quis, sem.
-#            - Bullet point
-#            - Bullet point
-#      - degree: BSc in Applied Mathematics
-#        university: Bristol University
-#        time: 2007 - 2011
-#        details: |
-#          Describe your study here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#          sociis natoque penatibus et magnis dis parturient montes, nascetur
-#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#          pretium quis, sem.
-#            - Bullet point
-#            - Bullet point
+education:
+    title: Bildung
+    info:
+      - degree: Masater of Arts in Management im Gesundheitswesen
+        university: Hochschule Zittau / Görlitz 
+        time: 2015 - 2018
+        details: |
+          - Studienschwerpunkte: Gesundheitsökonomie, Gesundheitsmanagement
+          - Masterthesis: „Inkontinenz-assoziierte Dermatitis – Prävalenz, Prävention und Therapie in deutschen  Pflegeheimen“
+
+
+      - degree: BSc in Pflegemanagement
+        university: Westsächsische Hochschule Zwickau
+        time: 2009 - 2014
+        details: |
+          - Studienschwerpunkt: Gesundheits- und Pflegewissenschaften, Qualitätsmanagement
+          - Bachelorthesis: „Erstellung eines Pflegekonzeptes für das Krankenhaus St. Joseph - Stift in Dresden“
+
 
 #experiences:
 #    title: Erfahrungen
@@ -216,11 +209,11 @@ skills:
       - name: MS Office
         level: 95%
 
-      - name: SPSS
-        level: 50%
-
       - name: Agiles Projektmanagement
         level: 70%
+
+      - name: SPSS
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
