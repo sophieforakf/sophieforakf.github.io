@@ -30,7 +30,7 @@ sidebar:
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
     interests:
-    title: Zertifikate
+      title: Zertifikate
       info:
         - idiom: Zertifikat Qualitätsmanagement-Beauftragter QMB TÜV
           level: 2021
