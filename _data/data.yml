@@ -29,6 +29,15 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
+    interests:
+    title: Zertifikate
+      info:
+        - idiom: Zertifikat Qualitätsmanagement-Beauftragter QMB TÜV
+          level: 2021
+
+        - idiom: Zertifikat „Managen von Arbeitsgruppen und kleinen Projekten; Projektartige Zusammenarbeit strukturieren, begleiten und auswerten“
+          level: 2011
+
     languages:
       title: Sprachen
       info:
@@ -43,18 +52,6 @@ sidebar:
 
         - idiom: Spanisch
           level: Beginner
-
-    interests:
-    title: Zertifikate
-      info:
-        - item: Zertifikat Qualitätsmanagement-Beauftragter QMB TÜV
-          link:
-
-        - item: Zertifikat „Managen von Arbeitsgruppen und kleinen Projekten; Projektartige Zusammenarbeit strukturieren, begleiten und auswerten“
-          link:
-#
-#        - item: Cooking
-#          link:
 
 career-profile:
     title: Meine Motivation
