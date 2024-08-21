@@ -12,7 +12,7 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch i
 
 # Der Prozess
 
-# Euer Geschenk
+# Euer Schatz
 
 ![Treasure](assets/images/UdoFineTreasure.png)
 
