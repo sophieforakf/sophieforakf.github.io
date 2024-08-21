@@ -234,7 +234,7 @@ footer span.ribbon-outer {
 footer span.ribbon-inner {
   position: relative;
   display: block;
-  background-color: #cd596b;
+  background-color: #7c334f;
   border: 8px solid #7c334f;
   padding: 6px;
   z-index: 1;
@@ -258,8 +258,7 @@ footer span.ribbon-inner p {
   font: bold italic 22px/1 Georgia, Times, “Times New Roman”, serif;
   height: auto;
   line-height: 1.1;
-  /* padding: 20px 0px 10px; */
-  padding: 1em;
+  padding: 20px 0px 10px;
 }
 
 footer span.ribbon-inner a {
