@@ -30,21 +30,21 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch i
 
 ![Prozess1](assets/images/Prozess_1Medium.png)
 
+![Prozess13](assets/images/Prozess_13Medium.png)
+
 ![Prozess5](assets/images/Prozess_5Medium.png)
 
 ![Prozess10](assets/images/Prozess_10Medium.png)
 
 ![Prozess12](assets/images/Prozess_12Medium.png)
 
-![Prozess13](assets/images/Prozess_13Medium.png)
-
-![Prozess15](assets/images/Prozess_15Medium.png)
+![Prozess18](assets/images/Prozess_18Medium.png)
 
 ![Prozess16](assets/images/Prozess_16Medium.png)
 
 ![Prozess17](assets/images/Prozess_17Medium.png)
 
-![Prozess18](assets/images/Prozess_18Medium.png)
+![Prozess15](assets/images/Prozess_15Medium.png)
 
 ![Prozess4](assets/images/Prozess_4Medium.png)
 
