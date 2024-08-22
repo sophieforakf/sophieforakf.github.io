@@ -12,6 +12,42 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch i
 
 # Der Prozess
 
+![Prozess1](assets/images/Prozess_1Medium.png)
+
+![Prozess2](assets/images/Prozess_2Medium.png)
+
+![Prozess3](assets/images/Prozess_3Medium.png)
+
+![Prozess4](assets/images/Prozess_4Medium.png)
+
+![Prozess5](assets/images/Prozess_5Medium.png)
+
+![Prozess6](assets/images/Prozess_6Medium.png)
+
+![Prozess7](assets/images/Prozess_7Medium.png)
+
+![Prozess8](assets/images/Prozess_8Medium.png)
+
+![Prozess9](assets/images/Prozess_9Medium.png)
+
+![Prozess10](assets/images/Prozess_10Medium.png)
+
+![Prozess11](assets/images/Prozess_11Medium.png)
+
+![Prozess12](assets/images/Prozess_12Medium.png)
+
+![Prozess13](assets/images/Prozess_13Medium.png)
+
+![Prozess14](assets/images/Prozess_14Medium.png)
+
+![Prozess15](assets/images/Prozess_15Medium.png)
+
+![Prozess16](assets/images/Prozess_16Medium.png)
+
+![Prozess17](assets/images/Prozess_17Medium.png)
+
+![Prozess18](assets/images/Prozess_18Medium.png)
+
 # Euer Schatz
 
 ![Treasure](assets/images/UdoFineTreasure.png)
