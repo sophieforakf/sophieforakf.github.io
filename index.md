@@ -12,27 +12,25 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch i
 
 # Der Prozess
 
-![Prozess1](assets/images/Prozess_1Medium.png)
-
-![Prozess2](assets/images/Prozess_2Medium.png)
-
-![Prozess3](assets/images/Prozess_3Medium.png)
-
-![Prozess4](assets/images/Prozess_4Medium.png)
-
-![Prozess5](assets/images/Prozess_5Medium.png)
-
-![Prozess6](assets/images/Prozess_6Medium.png)
-
 ![Prozess7](assets/images/Prozess_7Medium.png)
 
 ![Prozess8](assets/images/Prozess_8Medium.png)
 
 ![Prozess9](assets/images/Prozess_9Medium.png)
 
-![Prozess10](assets/images/Prozess_10Medium.png)
-
 ![Prozess11](assets/images/Prozess_11Medium.png)
+
+![Prozess1](assets/images/Prozess_1Medium.png)
+
+![Prozess2](assets/images/Prozess_2Medium.png)
+
+![Prozess6](assets/images/Prozess_6Medium.png)
+
+![Prozess3](assets/images/Prozess_3Medium.png)
+
+![Prozess5](assets/images/Prozess_5Medium.png)
+
+![Prozess10](assets/images/Prozess_10Medium.png)
 
 ![Prozess12](assets/images/Prozess_12Medium.png)
 
@@ -47,6 +45,9 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch i
 ![Prozess17](assets/images/Prozess_17Medium.png)
 
 ![Prozess18](assets/images/Prozess_18Medium.png)
+
+![Prozess4](assets/images/Prozess_4Medium.png)
+
 
 # Euer Schatz
 
