@@ -59,7 +59,7 @@ In diesem Sinne hoffen wir, dass ihr das Geschenk nutzt, um Euch eine super Zeit
 
 ![Treasure](assets/images/UdoFineTreasure.png)
 
-**Alles Gute wünsche euch:**
+**Alles Gute wünschen Euch:**
 
 * Anja & Ferdi, 
 * Caro & Alex, 
