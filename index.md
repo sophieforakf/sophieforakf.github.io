@@ -70,6 +70,7 @@ In diesem Sinne hoffen wir, dass ihr das Geschenk nutzt, um Euch eine super Zeit
 * Sophie & Martin, 
 * Sophie & Robert, 
 * Christian,
+* Flori
 * Krahli und  
 * Stefan
 
