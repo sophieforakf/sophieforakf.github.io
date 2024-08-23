@@ -6,9 +6,9 @@ layout: default
 
 anscheinend wurde der Betonklotz von euch geborgen, zerstört und der QR Code erfolgreich zusammengesetzt. Oder wir hatten schlussendlich Mitleid mit euch. 
 
-**Herzlichen Glückwunsch!** Ihr habt den anstrengenden Teil geschafft und nun wartet die wohlverdiente Belohnung auf euch! Euer Geschenk. Wir wissen, dass euer größter Wunsch ein unvergessliches Wochenende mit eurer Familie und euren Freunden ist und wir hoffen, dass wir diese Erwartungen in den nächsten Stunden erfüllen werden! Wir wissen aber auch, dass euer nächstes Abenteuer schon in Planung ist. Was kommt da gelegener als ein paar Extrataler um eine Bootscrew anzuheuern und zum nächsten Tauchspot zu fahren.
+**Herzlichen Glückwunsch!** Ihr habt den anstrengenden Teil geschafft und nun wartet die wohlverdiente Belohnung auf euch - Euer Geschenk! Wir wissen, dass euer größter Wunsch ein unvergessliches Wochenende mit eurer Familie und euren Freunden ist und wir hoffen, dass wir diese Erwartungen in den nächsten Stunden erfüllen werden! Wir wissen aber auch, dass euer nächstes Abenteuer schon in Planung ist. Was kommt da gelegener als ein paar Extrataler um eine Bootscrew anzuheuern und euch zum nächsten Tauchspot fahren zu lassen.
 
-Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch interessiert wie das Geschenk enstanden ist, schaut euch in Ruhe die Fotos an.
+Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Apropos neugierig, falls euch interessiert wie das Geschenk enstanden ist, schaut euch in Ruhe die Fotos an.
 
 # Der Prozess
 
@@ -53,7 +53,7 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Wenn euch i
 
 _"Wer Schätze anhäuft und sich selbst nichts gönnt, sammelt für andere; sie werden sich mit seinem Besitz ein gutes Leben machen."_
 
-In diesem Sinne hoffen wir, dass ihr euer Geschenk dafür nutzt euch eine super Zeit zu gönnen.
+In diesem Sinne hoffen wir, dass ihr das Geschenk nutzt um euch eine super Zeit zu gönnen.
 
 ![Treasure](assets/images/UdoFineTreasure.png)
 
@@ -67,6 +67,7 @@ In diesem Sinne hoffen wir, dass ihr euer Geschenk dafür nutzt euch eine super 
 * Simca & Alex, 
 * Sophie & Martin, 
 * Sophie & Robert, 
-* Christian und 
+* Christian,
+* Krahli und  
 * Stefan
 
