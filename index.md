@@ -4,11 +4,13 @@ layout: default
 
 **Liebe Fine, lieber Udo,**
 
-anscheinend wurde der Betonklotz von euch geborgen, zerstört und der QR Code erfolgreich zusammengesetzt. Oder wir hatten schlussendlich Mitleid mit euch. 
+anscheinend wurde der Betonklotz von Euch geborgen, zerstört und der QR Code erfolgreich zusammengesetzt. Oder wir hatten schlussendlich Mitleid mit Euch. 
 
-**Herzlichen Glückwunsch!** Ihr habt den anstrengenden Teil geschafft und nun wartet die wohlverdiente Belohnung auf euch - Euer Geschenk! Wir wissen, dass euer größter Wunsch ein unvergessliches Wochenende mit eurer Familie und euren Freunden ist und wir hoffen, dass wir diese Erwartungen in den nächsten Stunden erfüllen werden! Wir wissen aber auch, dass euer nächstes Abenteuer schon in Planung ist. Was kommt da gelegener als ein paar Extrataler um eine Bootscrew anzuheuern und euch zum nächsten Tauchspot fahren zu lassen.
+**Herzlichen Glückwunsch!** Ihr habt den anstrengenden Teil geschafft und nun wartet die wohlverdiente Belohnung auf Euch - Euer Geschenk! Da wir wissen, dass Euer nächstes Abenteuer schon in den Startlöchern steht, kommen Euch ein paar Extrataler sicher gelegen. Vielleicht um eine Bootscrew anzuheuern, die Euch zum nächsten Tauchspot fährt. Viel Spaß dabei (und schickt mal paar Fotos)!
 
-Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Apropos neugierig, falls euch interessiert wie das Geschenk enstanden ist, schaut euch in Ruhe die Fotos an.
+So... Und nun lasst uns kräftig weiter feiern und ein unvergessliches Wedfest-Wochenende mit Eurer Familie und Euren Freunden verbringen. 
+
+Wir wünschen Euch weiterhin alles erdenklich Gute für Eure gemeinsame Zukunft. Bleibt wie ihr seid; bleibt so ein tolles Team und bleibt neugierig! Apropos neugierig, falls Euch interessiert, wie das Geschenk enstanden ist, schaut Euch in Ruhe die Fotos an.
 
 # Der Prozess
 
@@ -53,7 +55,7 @@ Bleibt wie ihr seid, bleibt so ein tolles Team und bleibt neugierig! Apropos neu
 
 _"Wer Schätze anhäuft und sich selbst nichts gönnt, sammelt für andere; sie werden sich mit seinem Besitz ein gutes Leben machen."_
 
-In diesem Sinne hoffen wir, dass ihr das Geschenk nutzt um euch eine super Zeit zu gönnen.
+In diesem Sinne hoffen wir, dass ihr das Geschenk nutzt, um Euch eine super Zeit zu gönnen.
 
 ![Treasure](assets/images/UdoFineTreasure.png)
 
